@@ -24,4 +24,8 @@ test('if we get officeNumber value from getOfficeNumber()', () => {
     expect(manager.getOfficeNumber()).toBe('561');
 })
 
+test('if we get role value from getRole()', () => {
+    expect(manager.getRole()).toBe('Manager');
+})
+
 console.log(manager)
