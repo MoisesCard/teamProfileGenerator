@@ -3,12 +3,15 @@
   
   ## Description
   This project uses 'Inquirer' and 'Jest' to build a html of your team members and their Id numbers, Github usernames, office numbers, and schools.
+  
+
+https://user-images.githubusercontent.com/103094173/175835821-dcc2f6cb-1ac2-4811-b79a-5e3b7d8b666a.mp4
+
+
 
   ## Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Testing](#testing)
   * [Questions](#questions)
   
   ## Installation
